@@ -29,5 +29,5 @@ CAD: 1.3303
 ```
 
 - Do not display the currency being used to query the API in the list.
-- If the request is being executed, you should display "Loading...".
+- If the request is loading, you should display "Loading...".
 - If an error occurs during the request, you should display "An error has occurred..." and log the error in the console.
