@@ -2,7 +2,7 @@ Create a component that consumes a currency exchange API based on a currency sel
 
 Resources:
 Currency Exchange API:
-https://v6.exchangerate-api.com/v6/72179b357c84d84fcb2c1f3d/latest/{CURRENCY CODE}
+https://v6.exchangerate-api.com/v6/72179b357c84d84fcb2c1f3d/latest/{CURRENCY_CODE}
 
 // App.js
 
