@@ -10,7 +10,7 @@ https://v6.exchangerate-api.com/v6/72179b357c84d84fcb2c1f3d/latest/{CURRENCY_COD
 ```js
 // App.js
 ```
-- Create a dropdown with the currencies USD, EUR and ARG (put USD by default)
+- Create a dropdown with the currencies USD, EUR, BRL, and ARS (put USD by default)
 - Show the currency that is selected in the dropdown.
 - Every time the dropdown value changes, the currency exchange API should hit the API again.
 
