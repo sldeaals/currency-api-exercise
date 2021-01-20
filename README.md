@@ -20,7 +20,7 @@ https://v6.exchangerate-api.com/v6/72179b357c84d84fcb2c1f3d/latest/{CURRENCY_COD
 // App.vue
 ```
 
-- Create a dropdown with the currencies EUR, USD, BRL, PEN, and ARS (put USD by default)
+- Create a dropdown with the currencies EUR, USD, BRL, PEN, and ARS (select USD by default)
 - Every time the dropdown value changes, the currency exchange API should hit the API again.
 
 <hr>
@@ -42,19 +42,3 @@ CAD: 1.3331
 
 - If the request is loading, you should display **"Loading..."**.
 - Omit the current selected currency from the list.
-
-<hr>
-
-# currency-api-exercise
-
-## Project setup
-
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-
-```
-npm run serve
-```
