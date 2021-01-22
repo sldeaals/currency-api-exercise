@@ -36,9 +36,10 @@ currency_code: value
 ##### e.g.
 
 ```json
-USD: 1.1745
-CAD: 1.3331
+1. USD: 1.1745
+2. CAD: 1.3331
+3. EUR: 1.0025
 ```
-
-- If the request is loading, you should display **"Loading..."**.
 - Omit the current selected currency from the list.
+- If the request is loading, you should display **"Loading..."**.
+- 
