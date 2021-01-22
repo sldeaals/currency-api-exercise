@@ -42,4 +42,4 @@ currency_code: value
 ```
 - Omit the current selected currency from the list.
 - If the request is loading, you should display **"Loading..."**.
-- 
+- If there is an error you should display **"Something wrong happened, please try later..."** and log the error into the console.
