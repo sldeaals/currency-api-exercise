@@ -28,8 +28,8 @@ https://v6.exchangerate-api.com/v6/72179b357c84d84fcb2c1f3d/latest/{CURRENCY_COD
 currency_code: value
 ##### e.g.
 ```json
-USD: 1.1745
-CAD: 1.3331
+1. USD: 1.1745
+2. CAD: 1.3331
 ```
 
 - If the request is loading, you should display **"Loading..."**.
