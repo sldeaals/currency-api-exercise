@@ -11,7 +11,7 @@ git clone --single-branch --branch vue https://github.com/DannyFeliz/currency-ap
 Currency Exchange API:
 
 ```js
-https://v6.exchangerate-api.com/v6/72179b357c84d84fcb2c1f3d/latest/{CURRENCY_CODE}
+https://v6.exchangerate-api.com/v6/e7d0a9353ebf1a256297b4d5/latest/{CURRENCY_CODE}
 ```
 
 <hr>
