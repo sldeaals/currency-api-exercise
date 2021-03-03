@@ -8,7 +8,7 @@ git clone https://github.com/DannyFeliz/currency-api-exercise.git && cd currency
 #### Resources:
 Currency Exchange API:
 ```js
-https://v6.exchangerate-api.com/v6/72179b357c84d84fcb2c1f3d/latest/{CURRENCY_CODE}
+https://v6.exchangerate-api.com/v6/e7d0a9353ebf1a256297b4d5/latest/{CURRENCY_CODE}
 ```
 <hr>
 
