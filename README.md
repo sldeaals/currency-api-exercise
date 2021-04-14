@@ -16,14 +16,13 @@ https://v6.exchangerate-api.com/v6/71d0d9072451bae18657a9ec/latest/{CURRENCY_COD
 // App.js
 ```
 - Create a dropdown with the currencies EUR, USD, BRL, PEN, and ARS (put USD by default)
-- Every time the dropdown value changes, the currency exchange API should hit the API again.
 
 <hr>
 
 ```js
 // ExchangeRates.js
 ```
-- Fetch the exchange rates based on the given currency and display them using a list with the following format
+- Fetch the exchange rates based on the selected currency and display them using a list with the following format
 
 currency_code: value
 ##### e.g.
