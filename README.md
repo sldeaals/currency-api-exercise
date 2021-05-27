@@ -1,6 +1,6 @@
 ### Setup
 ```bash
-git clone https://github.com/DannyFeliz/currency-api-exercise.git && cd currency-api-exercise && npm install && npm run start
+git clone https://github.com/sldeaals/currency-api-exercise.git && cd currency-api-exercise && npm install && npm run start
 ```
 
 #### Create a component that consumes a currency exchange API based on a currency selected in a Dropdown.
